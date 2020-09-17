@@ -4108,5 +4108,10 @@ input, select, textarea {
 						margin: 0;
 						padding: 0;
 					}
+	}
 
+/* Centered unordered list with left-aligned bullet points in #five */
+
+	#centered-list-content {
+		text-align: left;		
 	}
