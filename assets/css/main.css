@@ -4112,6 +4112,10 @@ input, select, textarea {
 
 /* Centered unordered list with left-aligned bullet points in #five */
 
+	#centered-list-container {
+		text-align: center;
+	}
+
 	#centered-list-content {
 		text-align: left;		
 	}
