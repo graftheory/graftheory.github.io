@@ -4117,5 +4117,6 @@ input, select, textarea {
 	}
 
 	#centered-list-content {
-		text-align: left;		
+		text-align: left;	
+		display: inline-block;	
 	}
