@@ -38,7 +38,7 @@ ol, ul {
 }
 
 blockquote, q {
-	quotes: none;
+	quotes: "/201D" "/201C";
 }
 
 	blockquote:before, blockquote:after, q:before, q:after {
